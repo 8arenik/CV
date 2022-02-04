@@ -1,0 +1,171 @@
+*{
+    background-color: black;
+}
+
+.main-wrapper {
+    width:750px;
+    height: 1500px;
+    margin: 0 auto;
+    margin-top: 30px;
+    box-shadow: 10px 10px 30px rgba(255, 255, 255, 0.5);
+    position: relative;
+    background-color: black;
+}
+
+.about{
+    color:white;
+    left:130px;
+    bottom:500px;
+    position: absolute;
+}
+
+.cladbish{
+    width:350px;
+    height: 200px;
+    bottom: 300px;
+    left:130px;
+    position: absolute;
+}
+
+.cladbish-2{
+    color:white;
+    position: absolute;
+    bottom: 200px;
+    left:130px;
+}
+
+.circle {
+    width:250px;
+    height: 250px;
+    background-color: white;
+    clip-path: circle(60% at 20% 25%);
+}
+
+.circle-bottom {
+    width:250px;
+    height: 250px;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    background-color: white;
+    clip-path: circle(60% at 80% 90%);
+}
+
+.circle-small{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top:100px;
+    right:100px;
+    background-color: white;
+}
+
+.circle-small-bottom{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    position: absolute;
+    bottom:100px;
+    left:100px;
+    background-color: black;
+    border: 3px solid white;
+}
+
+.circle-border {
+    width:130px;
+    height: 130px;
+    border-radius: 50%;
+    position: absolute;
+    border: 3px solid white;
+    top:30px;
+    left: 30px;
+}
+
+.circle-border-bottom {
+    width:130px;
+    height: 130px;
+    border-radius: 50%;
+    position: absolute;
+    border: 3px solid white;
+    bottom:20px;
+    right: 20px;
+}
+
+.block {
+    width:20px;
+    height: 130px;
+    background-color: black;
+    position: absolute;
+    border: 3px solid white;
+    top:20px;
+    right: 375px;
+}
+
+.block-bottom {
+    width:30px;
+    height: 130px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    bottom:20px;
+    right: 375px;
+}
+
+.block-small {
+    width:30px;
+    height: 130px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+}
+
+.block-small-one {
+    top: 525px;
+    right:20px;
+}
+
+.block-small-two {
+    top: 525px;
+    left:20px;
+}
+
+.crest {
+    width:130px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    border: 3px solid black;
+    top:30px;
+    right: 320px;
+}
+
+.zaragonu {
+    width: 350px;
+    height: 200px;
+    left:1px;
+    position: absolute;
+}
+
+.idea{
+    color:white;
+    right: -70px;
+    position: absolute;
+}
+
+.wrapper{
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.header{
+    margin-top: -50px;
+}
+
+.text{
+    top:525px;
+    color:white;
+}
+
